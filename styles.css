@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+h1{
+	display:flex;
+	justify-content:center;
+}
+button{
+	background-color:blue;
+	color:white;
+}
